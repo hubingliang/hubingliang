@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Web3 wagami solidity Ethers.js**
 
-- 📝 I regularly write articles on [https://hubingliang.github.io/](https://hubingliang.github.io/)
+- 📝 I regularly write articles on [flaneur.netlify.app](https://flaneur.netlify.app/)
 
-- 💬 Ask me about **react,vue,javascript**
+- 💬 Ask me about **React,Vue,JavaScript,Solidity**
 
 - 📫 How to reach me **brianhu.cn@gmail.com**
 
