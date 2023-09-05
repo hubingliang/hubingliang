@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web3 wagami solidity Ethers.js**
 
-- 📝 I regularly write articles on [flaneur.netlify.app](https://flaneur.netlify.app/)
+- 📝 I regularly write articles on [brianhucn.netlify.app](https://brianhucn.netlify.app/)
 
 - 💬 Ask me about **React,Vue,JavaScript,Solidity**
 
